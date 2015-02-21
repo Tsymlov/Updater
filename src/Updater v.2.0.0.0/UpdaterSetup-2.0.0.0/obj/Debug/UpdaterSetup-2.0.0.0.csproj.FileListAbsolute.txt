@@ -1,0 +1,9 @@
+C:\Users\tsymlov.av\documents\visual studio 2013\Projects\Updater\UpdaterSetup-2.0.0.0\bin\Debug\UpdaterSetup-2.0.0.0.exe.config
+C:\Users\tsymlov.av\documents\visual studio 2013\Projects\Updater\UpdaterSetup-2.0.0.0\bin\Debug\UpdaterSetup-2.0.0.0.exe
+C:\Users\tsymlov.av\documents\visual studio 2013\Projects\Updater\UpdaterSetup-2.0.0.0\bin\Debug\UpdaterSetup-2.0.0.0.pdb
+C:\Users\tsymlov.av\documents\visual studio 2013\Projects\Updater\UpdaterSetup-2.0.0.0\obj\Debug\UpdaterSetup_2._0._0._0.MainForm.resources
+C:\Users\tsymlov.av\documents\visual studio 2013\Projects\Updater\UpdaterSetup-2.0.0.0\obj\Debug\UpdaterSetup_2._0._0._0.Properties.Resources.resources
+C:\Users\tsymlov.av\documents\visual studio 2013\Projects\Updater\UpdaterSetup-2.0.0.0\obj\Debug\UpdaterSetup-2.0.0.0.csproj.GenerateResource.Cache
+C:\Users\tsymlov.av\documents\visual studio 2013\Projects\Updater\UpdaterSetup-2.0.0.0\obj\Debug\UpdaterSetup-2.0.0.0.exe
+C:\Users\tsymlov.av\documents\visual studio 2013\Projects\Updater\UpdaterSetup-2.0.0.0\obj\Debug\UpdaterSetup-2.0.0.0.pdb
+C:\Users\tsymlov.av\documents\visual studio 2013\Projects\Updater\UpdaterSetup-2.0.0.0\obj\Debug\UpdaterSetup-2.0.0.0.csprojResolveAssemblyReference.cache

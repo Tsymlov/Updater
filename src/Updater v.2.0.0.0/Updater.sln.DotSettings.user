@@ -1,0 +1,11 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:Boolean x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=3B8BACEB91DF4B85958B39C140F56E2F/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=3B8BACEB91DF4B85958B39C140F56E2F/Name/@EntryValue">Etc.</s:String>
+	
+	
+	
+	
+	<s:String x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=3B8BACEB91DF4B85958B39C140F56E2F/XmlSerializedElements/@EntryValue">&lt;Session&gt;&lt;Elements /&gt;&lt;/Session&gt;</s:String>
+	<s:Boolean x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=78F4607367F948CFB0992DE706456029/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=78F4607367F948CFB0992DE706456029/Name/@EntryValue">UpdaterTest</s:String>
+	<s:String x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=78F4607367F948CFB0992DE706456029/XmlSerializedElements/@EntryValue">&lt;Session&gt;&lt;Elements&gt;&lt;UnitTestElement Provider="nUnit" Id="Updater.Tests.UpdaterTest" type="NUnitTestFixtureElement" Project="CB708905-0E35-4E3F-A1F0-D0A995478CEE" /&gt;&lt;UnitTestElement Provider="nUnit" Id="Updater.Tests.UpdaterTest.StartTest" ParentId="Updater.Tests.UpdaterTest" type="NUnitTestElement" TypeName="Updater.Tests.UpdaterTest" MethodName="StartTest" Project="CB708905-0E35-4E3F-A1F0-D0A995478CEE" /&gt;&lt;/Elements&gt;&lt;/Session&gt;</s:String></wpf:ResourceDictionary>

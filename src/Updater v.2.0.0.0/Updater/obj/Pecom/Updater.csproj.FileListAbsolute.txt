@@ -1,0 +1,12 @@
+C:\Users\tsymlov.av\documents\visual studio 2013\Projects\Updater\Updater\bin\Pecom\Updater.exe.config
+C:\Users\tsymlov.av\documents\visual studio 2013\Projects\Updater\Updater\obj\Pecom\Interop.V83.dll
+C:\Users\tsymlov.av\documents\visual studio 2013\Projects\Updater\Updater\obj\Pecom\Updater.csproj.ResolveComReference.cache
+C:\Users\tsymlov.av\documents\visual studio 2013\Projects\Updater\Updater\bin\Pecom\Updater.exe
+C:\Users\tsymlov.av\documents\visual studio 2013\Projects\Updater\Updater\bin\Pecom\Updater.pdb
+C:\Users\tsymlov.av\documents\visual studio 2013\Projects\Updater\Updater\bin\Pecom\nunit.framework.dll
+C:\Users\tsymlov.av\documents\visual studio 2013\Projects\Updater\Updater\bin\Pecom\nunit.framework.xml
+C:\Users\tsymlov.av\documents\visual studio 2013\Projects\Updater\Updater\obj\Pecom\Updater.ProjectInstaller.resources
+C:\Users\tsymlov.av\documents\visual studio 2013\Projects\Updater\Updater\obj\Pecom\Updater.UpdaterService.resources
+C:\Users\tsymlov.av\documents\visual studio 2013\Projects\Updater\Updater\obj\Pecom\Updater.csproj.GenerateResource.Cache
+C:\Users\tsymlov.av\documents\visual studio 2013\Projects\Updater\Updater\obj\Pecom\Updater.exe
+C:\Users\tsymlov.av\documents\visual studio 2013\Projects\Updater\Updater\obj\Pecom\Updater.pdb

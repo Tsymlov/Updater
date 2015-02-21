@@ -1,0 +1,13 @@
+C:\Users\tsymlov.av\documents\visual studio 2013\Projects\Updater\Updater\bin\Release\Updater.exe.config
+C:\Users\tsymlov.av\documents\visual studio 2013\Projects\Updater\Updater\bin\Release\Updater.exe
+C:\Users\tsymlov.av\documents\visual studio 2013\Projects\Updater\Updater\bin\Release\Updater.pdb
+C:\Users\tsymlov.av\documents\visual studio 2013\Projects\Updater\Updater\bin\Release\nunit.framework.dll
+C:\Users\tsymlov.av\documents\visual studio 2013\Projects\Updater\Updater\obj\Release\Updater.UpdaterService.resources
+C:\Users\tsymlov.av\documents\visual studio 2013\Projects\Updater\Updater\obj\Release\Updater.csproj.GenerateResource.Cache
+C:\Users\tsymlov.av\documents\visual studio 2013\Projects\Updater\Updater\obj\Release\Updater.exe
+C:\Users\tsymlov.av\documents\visual studio 2013\Projects\Updater\Updater\obj\Release\Updater.pdb
+C:\Users\tsymlov.av\documents\visual studio 2013\Projects\Updater\Updater\obj\Release\Updater.ProjectInstaller.resources
+C:\Users\tsymlov.av\documents\visual studio 2013\Projects\Updater\Updater\obj\Release\Interop.V83.dll
+C:\Users\tsymlov.av\documents\visual studio 2013\Projects\Updater\Updater\obj\Release\Updater.csproj.ResolveComReference.cache
+C:\Users\tsymlov.av\documents\visual studio 2013\Projects\Updater\Updater\bin\Release\nunit.framework.xml
+C:\Users\tsymlov.av\documents\visual studio 2013\Projects\Updater\Updater\obj\Release\Updater.csprojResolveAssemblyReference.cache

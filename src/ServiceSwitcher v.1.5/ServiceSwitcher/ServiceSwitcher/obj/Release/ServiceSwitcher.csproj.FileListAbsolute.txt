@@ -1,0 +1,9 @@
+C:\Users\tsymlov.av\documents\visual studio 2013\Projects\ServiceSwitcher\ServiceSwitcher\bin\Release\ServiceSwitcher.exe.config
+C:\Users\tsymlov.av\documents\visual studio 2013\Projects\ServiceSwitcher\ServiceSwitcher\bin\Release\ServiceSwitcher.exe
+C:\Users\tsymlov.av\documents\visual studio 2013\Projects\ServiceSwitcher\ServiceSwitcher\bin\Release\ServiceSwitcher.pdb
+C:\Users\tsymlov.av\documents\visual studio 2013\Projects\ServiceSwitcher\ServiceSwitcher\obj\Release\ServiceSwitcher.MainForm.resources
+C:\Users\tsymlov.av\documents\visual studio 2013\Projects\ServiceSwitcher\ServiceSwitcher\obj\Release\ServiceSwitcher.Properties.Resources.resources
+C:\Users\tsymlov.av\documents\visual studio 2013\Projects\ServiceSwitcher\ServiceSwitcher\obj\Release\ServiceSwitcher.csproj.GenerateResource.Cache
+C:\Users\tsymlov.av\documents\visual studio 2013\Projects\ServiceSwitcher\ServiceSwitcher\obj\Release\ServiceSwitcher.exe
+C:\Users\tsymlov.av\documents\visual studio 2013\Projects\ServiceSwitcher\ServiceSwitcher\obj\Release\ServiceSwitcher.pdb
+C:\Users\tsymlov.av\documents\visual studio 2013\Projects\ServiceSwitcher\ServiceSwitcher\obj\Release\ServiceSwitcher.csprojResolveAssemblyReference.cache

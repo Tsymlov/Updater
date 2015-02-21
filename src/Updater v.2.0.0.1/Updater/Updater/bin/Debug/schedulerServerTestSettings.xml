@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<UpdaterSettings IsSchedulerServer = "true" UpdatesDirPath="\\mv-it-14\TestUpdate" TimeoutAfterUserNotification="300000" NotifyMessage="Внимание! В связи с проведение технических работ, программа 1С будет не доступна через 5 минут." IsDynamicUpdate="false" PathTo1C="C:\Program Files (x86)\1cv8\8.3.3.721\bin\1cv8.exe" PathToCOMConnectorDLL="C:\Program Files (x86)\1cv8\8.3.3.721\bin\comcntr.dll" OutFilePath="\\S-QS-1C-01\Exchange\UpdaterSettings\log.txt" ClusterPortNumber="1541" ClusterAdminName="" ClusterAdminPass="" SchedulerServerName="s-qs-1c-01" SchedulerClusterPortNumber="1541" SchedulerClusterAdminName="" SchedulerClusterAdminPass="" ServerName="S-QS-1C-01">
+	<Infobase InfobaseName="Pegasus2008TB" InfobaseAdminName="Администратор" InfobaseAdminPass="imagination"/>
+</UpdaterSettings>

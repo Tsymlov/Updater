@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30501.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Updater", "Updater\Updater.csproj", "{CB708905-0E35-4E3F-A1F0-D0A995478CEE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UpdaterSetup-2.0.0.0", "UpdaterSetup-2.0.0.0\UpdaterSetup-2.0.0.0.csproj", "{19D0B69D-A27A-40C2-83EC-460E673CD9AE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Pecom|Any CPU = Pecom|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CB708905-0E35-4E3F-A1F0-D0A995478CEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CB708905-0E35-4E3F-A1F0-D0A995478CEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CB708905-0E35-4E3F-A1F0-D0A995478CEE}.Pecom|Any CPU.ActiveCfg = Pecom|Any CPU
+		{CB708905-0E35-4E3F-A1F0-D0A995478CEE}.Pecom|Any CPU.Build.0 = Pecom|Any CPU
+		{CB708905-0E35-4E3F-A1F0-D0A995478CEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CB708905-0E35-4E3F-A1F0-D0A995478CEE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{19D0B69D-A27A-40C2-83EC-460E673CD9AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19D0B69D-A27A-40C2-83EC-460E673CD9AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19D0B69D-A27A-40C2-83EC-460E673CD9AE}.Pecom|Any CPU.ActiveCfg = Release|Any CPU
+		{19D0B69D-A27A-40C2-83EC-460E673CD9AE}.Pecom|Any CPU.Build.0 = Release|Any CPU
+		{19D0B69D-A27A-40C2-83EC-460E673CD9AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19D0B69D-A27A-40C2-83EC-460E673CD9AE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
