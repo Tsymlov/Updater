@@ -1,0 +1,2 @@
+Srvr="vasia14";Ref="Pegasus2008MS_TEST";
+Srvr="V-SANDBOX-04";Ref="Integration";
